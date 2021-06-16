@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.Viewer {
+  width: 66vw;
+  height: 80vh;
+  object-fit: contain;
+}
